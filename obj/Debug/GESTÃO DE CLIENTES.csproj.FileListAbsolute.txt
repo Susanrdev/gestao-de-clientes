@@ -1,0 +1,8 @@
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\bin\Debug\GESTÃO DE CLIENTES.exe.config
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\bin\Debug\GESTÃO DE CLIENTES.exe
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\bin\Debug\GESTÃO DE CLIENTES.pdb
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\obj\Debug\GESTÃO DE CLIENTES.csproj.AssemblyReference.cache
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\obj\Debug\GESTÃO DE CLIENTES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\obj\Debug\GESTÃO DE CLIENTES.csproj.CoreCompileInputs.cache
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\obj\Debug\GESTÃO DE CLIENTES.exe
+C:\Users\Susan\Desktop\C#\c# .net projeto\GESTÃO DE CLIENTES\GESTÃO DE CLIENTES\obj\Debug\GESTÃO DE CLIENTES.pdb
